@@ -1,0 +1,8 @@
+h1 {
+  color: #8b0000;
+}
+.list-group-item {
+  border-radius: 4px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
